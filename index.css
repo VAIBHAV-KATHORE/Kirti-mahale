@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: #f5f5f5;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hospital-logo img {
+  width: 50px; /* Adjust size as needed */
+  height: 20px;
+  margin-right: 20px;
+}
+
+.hospital-name h1 {
+  font-size: 2em;
+  color: #333;
+  margin: 0;
+}
+
+.hospital-name p {
+  font-size: 1em;
+  color: #666;
+  margin-top: 5px;
+}
